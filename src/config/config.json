@@ -4,8 +4,9 @@
     "password": null,
     "database": "hoidanit",
     "host": "127.0.0.1",
-    "port": "4306",
-    "dialect": "mysql"
+    "port": "3306",
+    "dialect": "mysql",
+    "logging": false
   },
   "test": {
     "username": "root",
